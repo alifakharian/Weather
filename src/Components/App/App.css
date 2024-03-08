@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: En; */
+  }
+  @font-face {
+    font-family: header;
+    src: url(./TheRadicoolsCasualRegular.otf);
+  }
+  @font-face {
+    font-family: inform;
+    src: url(./TheRadicoolsCasualItalic.otf);
+  }
+  @font-face {
+    font-family: enghilishnumber;
+    src: url(./Times\ New\ Normal\ Regular.ttf);
+  }
+  .header {
+    font-family: header;
+  }
+  .main {
+    background-image: url(./img/3.jpg);
+    cursor: pointer;
+    background-size: cover;
+  }
+  
+  .information {
+    background-color: rgba(128, 128, 128, 0.625);
+    border-radius: 30px;
+    font-family: inform;
+    font-family: enghilishnumber;
+  }
+  #search,
+  #result {
+    font-family: header;
+  }
+  
