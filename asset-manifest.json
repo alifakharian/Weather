@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Weathernpm/static/css/main.5d7072af.css",
+    "main.js": "/Weathernpm/static/js/main.adfaed0e.js",
+    "static/media/3.jpg": "/Weathernpm/static/media/3.8d9aced553caf83a5c76.jpg",
+    "static/media/Times New Normal Regular.ttf": "/Weathernpm/static/media/Times New Normal Regular.9b5d595607fafd5018b0.ttf",
+    "static/media/TheRadicoolsCasualItalic.otf": "/Weathernpm/static/media/TheRadicoolsCasualItalic.e5fec2c38b01c1b710a1.otf",
+    "static/media/TheRadicoolsCasualRegular.otf": "/Weathernpm/static/media/TheRadicoolsCasualRegular.e4f0fd07ce74185439fa.otf",
+    "index.html": "/Weathernpm/index.html",
+    "main.5d7072af.css.map": "/Weathernpm/static/css/main.5d7072af.css.map",
+    "main.adfaed0e.js.map": "/Weathernpm/static/js/main.adfaed0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d7072af.css",
+    "static/js/main.adfaed0e.js"
+  ]
+}
